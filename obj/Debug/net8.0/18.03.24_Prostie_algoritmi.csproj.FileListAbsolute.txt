@@ -1,0 +1,14 @@
+C:\Users\SystemX\Desktop\GeekBrains\18.03.24_Prostie_algoritmi\bin\Debug\net8.0\18.03.24_Prostie_algoritmi.exe
+C:\Users\SystemX\Desktop\GeekBrains\18.03.24_Prostie_algoritmi\bin\Debug\net8.0\18.03.24_Prostie_algoritmi.deps.json
+C:\Users\SystemX\Desktop\GeekBrains\18.03.24_Prostie_algoritmi\bin\Debug\net8.0\18.03.24_Prostie_algoritmi.runtimeconfig.json
+C:\Users\SystemX\Desktop\GeekBrains\18.03.24_Prostie_algoritmi\bin\Debug\net8.0\18.03.24_Prostie_algoritmi.dll
+C:\Users\SystemX\Desktop\GeekBrains\18.03.24_Prostie_algoritmi\bin\Debug\net8.0\18.03.24_Prostie_algoritmi.pdb
+C:\Users\SystemX\Desktop\GeekBrains\18.03.24_Prostie_algoritmi\obj\Debug\net8.0\18.03.24_Prostie_algoritmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SystemX\Desktop\GeekBrains\18.03.24_Prostie_algoritmi\obj\Debug\net8.0\18.03.24_Prostie_algoritmi.AssemblyInfoInputs.cache
+C:\Users\SystemX\Desktop\GeekBrains\18.03.24_Prostie_algoritmi\obj\Debug\net8.0\18.03.24_Prostie_algoritmi.AssemblyInfo.cs
+C:\Users\SystemX\Desktop\GeekBrains\18.03.24_Prostie_algoritmi\obj\Debug\net8.0\18.03.24_Prostie_algoritmi.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\GeekBrains\18.03.24_Prostie_algoritmi\obj\Debug\net8.0\18.03.24_Prostie_algoritmi.dll
+C:\Users\SystemX\Desktop\GeekBrains\18.03.24_Prostie_algoritmi\obj\Debug\net8.0\refint\18.03.24_Prostie_algoritmi.dll
+C:\Users\SystemX\Desktop\GeekBrains\18.03.24_Prostie_algoritmi\obj\Debug\net8.0\18.03.24_Prostie_algoritmi.pdb
+C:\Users\SystemX\Desktop\GeekBrains\18.03.24_Prostie_algoritmi\obj\Debug\net8.0\18.03.24_Prostie_algoritmi.genruntimeconfig.cache
+C:\Users\SystemX\Desktop\GeekBrains\18.03.24_Prostie_algoritmi\obj\Debug\net8.0\ref\18.03.24_Prostie_algoritmi.dll
