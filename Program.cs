@@ -65,7 +65,7 @@
 // if(number > 99 && number < 1000)
 // {
 //    int leftDigit = number / 100;
-//    int rigtDigit = number % 10;
+//    int rihgtDigit = number % 10;
 //    int newNumber = leftDigit * 10 + rigtDigit;
 //    System.Console.Write(newNumber); 
 // }
@@ -85,3 +85,20 @@
 // 254 => 5^4 = 625
 // 617 => 1
 
+
+System.Console.WriteL("Введите трехзначное число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+
+if(number > 99 && number < 1000);
+{
+    int middleDigit = number / 10 % 10;
+    int rihgtDigit = number % 10;
+    int result = 1;
+    while(rihgtDigit > 0)
+    {
+        result *= middleDigit; // result = result * middleDigit;
+        rihgtDigit --;
+    
+    }
+    System.Console.Write(result);
+}
