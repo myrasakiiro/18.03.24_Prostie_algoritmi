@@ -86,19 +86,19 @@
 // 617 => 1
 
 
-System.Console.WriteL("Введите трехзначное число: ");
-int number = Convert.ToInt32(Console.ReadLine());
+// System.Console.Write("Введите трехзначное число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
 
-if(number > 99 && number < 1000);
-{
-    int middleDigit = number / 10 % 10;
-    int rihgtDigit = number % 10;
-    int result = 1;
-    while(rihgtDigit > 0)
-    {
-        result *= middleDigit; // result = result * middleDigit;
-        rihgtDigit --;
+// if(number > 99 && number < 1000)
+// {
+//     int middleDigit = number / 10 % 10;
+//     int rihgtDigit = number % 10;
+//     int result = 1;
+//     while(rihgtDigit > 0)
+//     {
+//         result *= middleDigit; // result = result * middleDigit;
+//         rihgtDigit --;
     
-    }
-    System.Console.Write(result);
-}
+//     }
+//     System.Console.Write(result);
+// }

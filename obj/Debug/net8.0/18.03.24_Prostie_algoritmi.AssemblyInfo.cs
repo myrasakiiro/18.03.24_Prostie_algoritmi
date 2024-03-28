@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("18.03.24_Prostie_algoritmi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a587353efb35aa63d37a8f07e5d815e39f2c0824")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4c6e0780a88a4bc06d5a909648834b242785782")]
 [assembly: System.Reflection.AssemblyProductAttribute("18.03.24_Prostie_algoritmi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("18.03.24_Prostie_algoritmi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
