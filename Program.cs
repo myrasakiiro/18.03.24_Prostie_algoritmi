@@ -102,3 +102,34 @@
 //     }
 //     System.Console.Write(result);
 // }
+
+
+
+// Задание 3. 
+
+// Напишите программу, которая будет принимать на
+// вход два числа и выводить, является ли первое число
+// кратным второму. Если первое число некратно
+// второму, то программа выводит остаток от деления.
+
+// Примеры
+// 14, 5 => нет, 4
+// 16, 8 => да
+// 4, 3 => нет, 1
+
+
+System.Console.Write("Введите первое число: ");
+int number1 = Convert.ToInt32(Console.ReadLine());
+
+System.Console.Write("Введит второе число: ");
+int number2 = Convert.ToInt32(Console.ReadLine());
+
+if( number1 % number2 == 0)
+{
+    System.Console.Write("Да");
+}
+else
+{
+    int number3 = number1 % number2;
+    System.Console.Write("Нет, " + number3 );
+}
