@@ -98,7 +98,7 @@
 //     {
 //         result *= middleDigit; // result = result * middleDigit;
 //         rihgtDigit --;
-    
+
 //     }
 //     System.Console.Write(result);
 // }
@@ -118,18 +118,64 @@
 // 4, 3 => нет, 1
 
 
-System.Console.Write("Введите первое число: ");
-int number1 = Convert.ToInt32(Console.ReadLine());
+// System.Console.Write("Введите первое число: ");
+// int number1 = Convert.ToInt32(Console.ReadLine());
 
-System.Console.Write("Введит второе число: ");
-int number2 = Convert.ToInt32(Console.ReadLine());
+// System.Console.Write("Введит второе число: ");
+// int number2 = Convert.ToInt32(Console.ReadLine());
 
-if( number1 % number2 == 0)
-{
-    System.Console.Write("Да");
-}
-else
-{
-    int number3 = number1 % number2;
-    System.Console.Write("Нет, " + number3 );
-}
+// if( number1 % number2 == 0)
+// {
+//     System.Console.Write("Да");
+// }
+// else
+// {
+//     int number3 = number1 % number2;
+//     System.Console.Write("Нет, " + number3 );
+// }
+
+
+
+
+// Задание 4.
+// Напишите программу, которая выводит третью с
+// конца цифру заданного числа или сообщает, что
+// третьей цифры нет.
+// 456 => 6
+// 7812 => 8
+// 91 => Третьей цифры нет
+
+
+
+// System.Console.Write("Введите число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+
+// if(number > 99)
+// {
+// System.Console.Write(number % 1000 / 100);
+// }
+// else
+// {
+//     System.Console.Write("Третьей цифры нет");
+// }
+
+
+// Задание 4*
+// Напишите программу, которая выводит третью с
+// начала цифру заданного числа
+// 456 => 6
+// 7812 => 1
+// 9121 => 2  
+
+// System.Console.Write("Введите число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+
+// if (number > 99)
+// {
+//     while (number > 999)
+//     {
+//         number /= 10; //number = number /10;
+//     }
+//     System.Console.Write(number % 10); 
+
+// }
